@@ -3,3 +3,6 @@ La metaweb
 :hp-tags: OpenShift, Fabric8, OSX
 
 NOTE: testing
+
+[.text-center]
+[blue]#_Write once, publish many._#
